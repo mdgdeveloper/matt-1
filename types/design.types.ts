@@ -1,0 +1,1 @@
+// @/types/design.types.ts

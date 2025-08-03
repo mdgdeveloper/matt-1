@@ -1,0 +1,1 @@
+// @/types/business.types.ts
