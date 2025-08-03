@@ -1,0 +1,1 @@
+// @/components/sections/hero/HeroV1.tsx
