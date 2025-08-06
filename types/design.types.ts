@@ -77,6 +77,7 @@ export interface DesignData {
     hero: 'split' | 'centered' | 'video' | 'carousel';
     footer: 'minimal' | 'comprehensive' | 'newsletter';
     cards: 'flat' | 'shadow' | 'border' | 'elevated';
+    buttons: 'rounded' | 'pill' | 'square' | 'outline';
   }
 
   // Animation preferences
